@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @syniti-marcio-casagrande
+- 👀 I’m interested in becoming a full-stack SAP developer
+- 🌱 I’m currently learning SAP UI5 and SAP CAP
+- 💞️ I’m looking to collaborate on RDG
+- 📫 You can reach out to me via Teams or email
+- ⚡ Hobbies: playing the guitar, playing the bass, playing video games, especially sim racing games
